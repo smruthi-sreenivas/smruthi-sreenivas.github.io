@@ -37,6 +37,14 @@ const projects = [
     livePreview: 'https://github.com',
   },
   {
+    name: 'Vehicle Registration Plate Detection',
+    description:
+      'Detects and extracts license plates from images/videos using YOLO object detection',
+    stack: ['Object Detection','Deep Learning', 'PyTorch', 'OpenCV'],
+    sourceCode: 'https://github.com/smruthi-sreenivas/Vehicle_Registration_Plate_Detection',
+    livePreview: 'https://github.com/smruthi-sreenivas/Vehicle_Registration_Plate_Detection',
+  },
+  {
     name: 'Object Detection and Tracking',
     description:
       'Detect and track a sports ball in a video',
@@ -51,6 +59,14 @@ const projects = [
     stack: ['Image Processing', 'Python', 'OpenCV'],
     sourceCode: 'https://github.com/smruthi-sreenivas/Sunglasses-Filter',
     livePreview: 'https://github.com/smruthi-sreenivas/Sunglasses-Filter',
+  },
+  {
+    name: 'Document Scanner',
+    description:
+      'Transforms images into scanned documents using OpenCV.',
+    stack: ['Image Processing', 'Python', 'OpenCV'],
+    sourceCode: 'https://github.com/smruthi-sreenivas/Document-Scanner',
+    livePreview: 'https://github.com/smruthi-sreenivas/Document-Scanner',
   },
 ]
 
