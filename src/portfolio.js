@@ -10,7 +10,7 @@ const about = {
   role: 'Computer Vision Engineer',
   description:
     'I am a Dynamic Computer Vision Engineer with a strong background in developing advanced Deep Learning models and image processing techniques. I specialize in using PyTorch and OpenCV, with a proven track record of achieving high accuracy in competitive settings.',
-  resume: 'https://drive.google.com/file/d/1S3i_PZvfeb_rZ78D0LN_sQqW9ncoVv0T/view?usp=drive_link',
+  resume: 'https://drive.google.com/file/d/1Pjc-0jiF77eDDWaEAghg2bO5naTqeKz3/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/smruthisreenivas',
     github: 'https://github.com/smruthi-sreenivas',
