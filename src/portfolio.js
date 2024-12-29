@@ -58,7 +58,7 @@ const projects = [
       'Virtual sunglass effect to real-time webcam footage using OpenCV and Python.',
     stack: ['Image Processing', 'Python', 'OpenCV'],
     sourceCode: 'https://github.com/smruthi-sreenivas/Sunglasses-Filter',
-   // livePreview: 'https://github.com/smruthi-sreenivas/Sunglasses-Filter',
+   // livePreview: 'https://github.com/smruthi-sreenivas/Sunglasses-Filter', 
   },
   {
     name: 'Document Scanner',
@@ -78,7 +78,7 @@ const skills = [
   'Image Classification',
   'Object Detection',
   'Image Segmentation',
-  'Obect Tracking',
+  'Object Tracking',
   'Image Processing',
   'OpenCV',
   'PyTorch',
