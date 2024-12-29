@@ -26,7 +26,7 @@ const projects = [
       'Classify image into any one of the 13 Kenyan food classes.',
     stack: ['Image Classification', 'Deep Learning', 'PyTorch', 'OpenCV'],
     sourceCode: 'https://github.com/smruthi-sreenivas/Kenyan_food_classifier',
-    //livePreview: 'https://github.com/smruthi-sreenivas/Kenyan_food_classifier',
+    // livePreview: 'https://github.com/smruthi-sreenivas/Kenyan_food_classifier',
   },
   {
     name: 'Aerial Drone Segmentation',
@@ -34,7 +34,7 @@ const projects = [
       'Aerial Drone Segmentation for Precise Landscape Analysis',
     stack: ['Image Segmentation', 'Deep Learning', 'PyTorch', 'OpenCV'],
     sourceCode: 'https://github.com/smruthi-sreenivas/Kenyan_food_classifier',
-    //livePreview: 'https://github.com',
+    // livePreview: 'https://github.com',
   },
   {
     name: 'Vehicle Registration Plate Detection',
@@ -50,7 +50,7 @@ const projects = [
       'Detect and track a sports ball in a video',
     stack: ['Object Detection', 'Object Tracking', 'OpenCV', 'Python'],
     sourceCode: 'https://github.com/smruthi-sreenivas/Detection-and-Tracking',
-    //livePreview: 'https://github.com/smruthi-sreenivas/Detection-and-Tracking',
+    // livePreview: 'https://github.com/smruthi-sreenivas/Detection-and-Tracking',
   },
   {
     name: 'Sunglass Filter',
@@ -66,7 +66,7 @@ const projects = [
       'Transforms images into scanned documents using OpenCV.',
     stack: ['Image Processing', 'Python', 'OpenCV'],
     sourceCode: 'https://github.com/smruthi-sreenivas/Document-Scanner',
-    //livePreview: 'https://github.com/smruthi-sreenivas/Document-Scanner',
+    // livePreview: 'https://github.com/smruthi-sreenivas/Document-Scanner',
   },
 ]
 
