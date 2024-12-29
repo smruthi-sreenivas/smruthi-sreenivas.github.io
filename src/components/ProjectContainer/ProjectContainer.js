@@ -27,7 +27,7 @@ const ProjectContainer = ({ project }) => (
         <GitHubIcon />
       </a>
     )}
-
+/*
     {project.livePreview && (
       <a
         href={project.livePreview}
@@ -36,7 +36,7 @@ const ProjectContainer = ({ project }) => (
       >
         <LaunchIcon />
       </a>
-    )}
+    )} */
   </div>
 )
 
